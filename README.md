@@ -13,7 +13,7 @@ https://github.com/2002tanmay/ExpenseTracker
 
 
 🎥 **Demo Video:**  
-👉https://drive.google.com/drive/folders/1-yMhsOx-Qil6DJlyTJoSXiZ8P2T3WHGM
+👉https://drive.google.com/file/d/1rjVG36e5gDluiB85YHtd6WcMHnzQbz46/view?usp=sharing
 
 ---
 
