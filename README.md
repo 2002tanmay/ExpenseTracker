@@ -1,27 +1,13 @@
-
-
 🚀 ExpenseTracker
 
-ExpenseTracker is a full-stack MERN application that helps users track daily expenses, categorize spending, and gain insights into their financial habits through a clean and simple interface.
+ExpenseTracker is a full-stack MERN application that allows users to track daily expenses, manage categories, and understand their spending habits through a simple and clean interface.
 
 🔗 GitHub Repository
-👉 https://github.com/2002tanmay/ExpenseTracker
+https://github.com/2002tanmay/ExpenseTracker
 
-Demo video link-https://drive.google.com/file/d/1rjVG36e5gDluiB85YHtd6WcMHnzQbz46/view?usp=sharing
+📌 Problem Statement
 
-🧠 What This Project Solves
-
-Managing daily expenses manually is inefficient and error-prone. ExpenseTracker provides:
-
-Easy expense tracking
-
-Category-wise expense management
-
-Secure authentication
-
-Clear spending overview
-
-Better personal finance control
+Managing personal expenses manually is inefficient and unorganized. ExpenseTracker provides a centralized platform to securely record expenses, categorize spending, and maintain a clear financial overview.
 
 🛠️ Tech Stack
 Frontend
@@ -100,82 +86,80 @@ ExpenseTracker/
 ├── .gitignore
 └── README.md
 
-⚙️ Local Setup
-1️⃣ Clone Repository
+⚙️ Local Setup Guide
+Step 1: Clone the Repository
 git clone https://github.com/2002tanmay/ExpenseTracker.git
 cd ExpenseTracker
 
-2️⃣ Backend Setup
+Step 2: Backend Setup
 cd backend
 npm install
 
 
-Create .env file inside backend folder:
+Create a .env file inside the backend folder:
 
 MONGO_URL=your_mongodb_connection_string
 PORT=4000
-JWT_SECRET=your_secret_key
+JWT_SECRET=your_jwt_secret
 
 
-Start backend:
+Start the backend server:
 
 npm run dev
 
 
-Backend runs at:
+Backend will run on:
 
 http://localhost:4000
 
-3️⃣ Frontend Setup
+Step 3: Frontend Setup
 cd frontend
 npm install
 npm start
 
 
-Frontend runs at:
+Frontend will run on:
 
 http://localhost:3000
 
-🔗 API Overview
+🔗 API Endpoints
 Method	Endpoint	Description
 POST	/api/auth/register	Register user
-POST	/api/auth/login	Login user
-GET	/api/expenses	Get all expenses
-POST	/api/expenses	Add expense
+POST	/api/auth/login	User login
+GET	/api/expenses	Fetch all expenses
+POST	/api/expenses	Add new expense
 DELETE	/api/expenses/:id	Delete expense
 ✨ Features
 
-JWT-based authentication
+Secure JWT-based authentication
 
-Add & delete expenses
+Add and delete expenses
 
 Category-wise expense tracking
 
-Secure backend APIs
+Protected backend APIs
 
-Clean & responsive UI
+Clean and responsive UI
 
-🔐 Security
+🔐 Security Practices
 
 JWT authentication
 
-Protected API routes
+Environment variables for secrets
 
 MongoDB Atlas secure connection
 
-Environment variable protection
+Protected routes
 
-📈 Future Enhancements
+🚀 Future Enhancements
 
-Expense analytics charts
+Expense analytics dashboard
 
 Monthly budget limits
 
-Export expenses (CSV / PDF)
+Expense export (CSV / PDF)
 
-Mobile-first UI
-
-Cloud sync
+Mobile responsive design
 
 👨‍💻 Author
 
