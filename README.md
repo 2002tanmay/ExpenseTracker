@@ -45,8 +45,5 @@ ExpenseTracker simplifies this by:
 - Mongoose  
 - JWT Authentication  
 
-### 🔌 Integrations
-- Environment-based configuration  
 
----
 
