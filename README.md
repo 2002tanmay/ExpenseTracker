@@ -1,54 +1,52 @@
-🚀 ExpenseTracker
+# 🚀 ExpenseTracker
 
-ExpenseTracker is a full-stack MERN application that allows users to track daily expenses, manage categories, and understand their spending habits through a simple and clean interface.
+ExpenseTracker is a full-stack **MERN application** for managing shared group expenses efficiently.  
+It enables users to create groups, add expenses, track balances, and analyze spending in a clean, modern interface.
 
-🔗 GitHub Repository:
+🔗 **GitHub Repository:**  
 https://github.com/2002tanmay/ExpenseTracker
 
-🌐 Live Application & Demo
+---
 
-🚀 Live App:
-👉 Coming Soon
+## 🌐 Live Application & Demo
 
-🎬 Demo Video:
-👉 Coming Soon
 
-🧠 What ExpenseTracker Solves
 
-Managing personal expenses manually becomes inefficient and unorganized over time.
+🎥 **Demo Video:**  
+👉https://drive.google.com/drive/folders/1-yMhsOx-Qil6DJlyTJoSXiZ8P2T3WHGM
+
+---
+
+## 🧠 What ExpenseTracker Solves
+
+Managing shared expenses in trips, hostels, teams, or events becomes messy.  
 ExpenseTracker simplifies this by:
 
-Recording daily expenses securely
+- Creating expense groups  
+- Tracking who paid what  
+- Automatically displaying balances  
+- Splitting expenses fairly  
+- Providing a clean and intuitive UI  
 
-Categorizing spending
+---
 
-Providing a clear financial overview
+## 🛠️ Tech Stack
 
-Helping users control and analyze expenses
+### 🔗 Frontend
+- React.js  
+- Ant Design  
+- Context API  
+- Axios  
 
-🛠️ Tech Stack
-🔗 Frontend
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- MongoDB (Atlas)  
+- Mongoose  
+- JWT Authentication  
 
-React.js
+### 🔌 Integrations
+- Environment-based configuration  
 
-Context API
+---
 
-Axios
-
-CSS
-
-🧠 Backend
-
-Node.js
-
-Express.js
-
-MongoDB (Atlas)
-
-Mongoose
-
-JWT Authentication
-
-🔌 Integrations
-
-Environment-based configuration
