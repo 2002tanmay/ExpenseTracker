@@ -1,8 +1,4 @@
-Theek hai.
-Main exact CashNova-style, properly separated, clean GitHub-rendered README de raha hoon — headings, emojis, spacing, sections bilkul waise hi jaise screenshots me dikh raha hai.
 
-👉 Direct copy–paste into README.md.
-👉 No extra words. No mixing.
 
 🚀 ExpenseTracker
 
